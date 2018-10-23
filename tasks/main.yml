@@ -2,4 +2,4 @@
 # tasks file for common-test
 
 - debug:
-    msg: "v2"
+    msg: "v1.0.2"
