@@ -2,4 +2,4 @@
 # tasks file for common-test
 
 - debug:
-    mst: "hoge"
+    msg: "hoge"
