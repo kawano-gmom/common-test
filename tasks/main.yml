@@ -2,4 +2,4 @@
 # tasks file for common-test
 
 - debug:
-    msg: "hoge"
+    msg: "v2"
